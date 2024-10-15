@@ -29,10 +29,6 @@ I started and finished this project in March 2023.
 - caesarCipher: takes a string and a shift factor and returns it with each character “shifted”
 - analyzeArray: takes an array of numbers and returns an object with the following properties: average, min, max, and length
 
-## Links
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
-
 ## Screenshots
 
 ![Screenshot](screenshots/tests.png)
@@ -41,7 +37,7 @@ I started and finished this project in March 2023.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/odin-testing-practice.git
 
 # install project dependencies
 npm install --save-dev babel-jest @babel/core @babel/preset-env
